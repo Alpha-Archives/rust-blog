@@ -13,7 +13,7 @@ chrono = { version = "0.4.19", features = ["serde"] }
 derive_more = "0.99.16"
 diesel = { version = "1.4.7", features = ["postgres","uuidv07", "r2d2", "chrono"] }
 dotenv = "0.15.0"
-futures = "0.3.16"
+futures = "0.3.17"
 r2d2 = "0.8.9"
 serde = "1.0"
 serde_derive = "1.0"
